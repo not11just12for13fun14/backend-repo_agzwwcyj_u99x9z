@@ -1,0 +1,31 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [155] using StatReload
+INFO:     Started server process [157]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:39944 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:39948 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39960 - "GET /api/speakers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39948 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39960 - "GET /api/speakers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39948 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39948 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39966 - "GET /api/highlights HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39966 - "GET /api/highlights HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53524 - "GET /api/speakers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53534 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53550 - "GET /api/highlights HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53524 - "GET /api/speakers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53534 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53550 - "GET /api/highlights HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53534 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53534 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39278 - "GET /api/speakers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39268 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39268 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39258 - "GET /api/highlights HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39278 - "GET /api/speakers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39268 - "GET /api/events HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39258 - "GET /api/highlights HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39268 - "GET /api/events HTTP/1.1" 200 OK
